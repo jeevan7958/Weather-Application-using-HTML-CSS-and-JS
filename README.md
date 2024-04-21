@@ -5,8 +5,7 @@ The images are sourced from across the internet.
 
 The code is open-source and free to use
 
-![image](https://github.com/dampetla11/Weather-Application-using-HTML-CSS-and-JS/assets/166474828/93f0bdde-ddef-42c8-8101-ab47a2afd8f5)
-
+![image](https://github.com/jeevan7958/Weather-Application-using-HTML-CSS-and-JS/assets/166487164/9ea6663c-a449-4692-aa44-e6e2efa44380)
 
 # API Key
 An API Key must be created while working on the code from [OpenWeather](https://openweathermap.org/)
